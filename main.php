@@ -45,8 +45,7 @@
 			echo "The letter for digit " . $i . " is " . $array[$i];
 		}
 		
-		echo ("TODAY'S RANDOM NUMBER IS: " . $num);
-		echo ("<br><br>" . "It always, always, just works ! :)");
+		echo ("<br><br>TODAY'S RANDOM NUMBER IS: " . $num);
 	?>
 </body>
 </html>
